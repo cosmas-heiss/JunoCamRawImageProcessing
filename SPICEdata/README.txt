@@ -8,3 +8,7 @@ https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/d
 https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/data/spk/jup310.bsp
 https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/data/spk/juno_rec_190504_190626_190627.bsp
 https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de430.bsp
+
+You will need different versions (for different times) of the following kernels for other orbits:
+https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/data/ck/juno_sc_rec_190526_190601_v01.bc
+https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/data/spk/juno_rec_190504_190626_190627.bsp
